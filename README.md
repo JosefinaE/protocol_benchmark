@@ -1,1 +1,1 @@
-Benchmark for FTP, HTTP, MQTT and rsync.
+Benchmark for python implementations of FTP, HTTP, MQTT and rsync.
